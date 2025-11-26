@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs folder
+logs/
+*.log
+
+# Reports (pytest-html output)
+reports/
+*.html
+
+# Cache
+.cache/
+pytest_cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
